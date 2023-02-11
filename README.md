@@ -1,7 +1,7 @@
 
 # EDA for Forbes Highest Paid Athletes 1990-2020
 
-This is a data analysis project using the Forbes highest paid athletes data between 1990 and 2020. The data is taken from Kaggle and can be found here. The purpose of this project is to understand the distribution of the highest paid athletes based on various parameters like nationality, sport, year, etc.
+This is a data analysis project using the Forbes highest paid athletes data between 1990 and 2020. The data is taken from Kaggle and can be found at "https://www.kaggle.com/datasets/parulpandey/forbes-highest-paid-athletes-19902019". The purpose of this project is to understand the distribution of the highest paid athletes based on various parameters like nationality, sport, year, etc.
 
 ## Dependencies
 The following libraries are required to run this project:
